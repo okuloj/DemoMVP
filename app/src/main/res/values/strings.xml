@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DemoMVP</string>
+    <string name="textView_title">Title</string>
+    <string name="textView_author">Author</string>
 </resources>
